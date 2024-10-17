@@ -7,3 +7,5 @@ push
 pull
 
 Coisa nova
+
+commit pelo vscode ...
