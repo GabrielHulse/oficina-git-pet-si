@@ -1,0 +1,7 @@
+
+init
+add
+commit
+push
+pull
+
